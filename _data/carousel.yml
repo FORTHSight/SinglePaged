@@ -1,0 +1,17 @@
+images:
+  - image: img/image1001.jpg
+    caption: Protocol assessment
+  - image: img/image1002.jpg
+    caption: Harm detection
+  - image: img/image1003.jpg
+    caption: Safety and security in public transport
+  - image: img/image1004.jpg
+    caption: Large scale monitoring
+  - image: img/image1005.jpg
+    caption: PPE detection
+  - image: img/image1006.jpg
+    caption: Vigilance in recreational events
+  - image: img/image1007.jpg
+    caption: Sports analysis
+  - image: img/image1008.jpg
+    caption: AI powered desk assistance
