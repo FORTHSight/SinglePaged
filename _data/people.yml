@@ -1,0 +1,16 @@
+- name: Antonis Argyros
+  img: img/argyros.jpg
+  url: https://www.ics.forth.gr/~argyros
+  email: argyros@forthsight.gr
+- name: Pashalis Padeleris
+  img: img/padeler.jpg
+  url: http://users.ics.forth.gr/~padeler
+  email: padeler@forthsight.gr
+- name: Alexandros Makris
+  img: img/amakris.jpg
+  url: https://gr.linkedin.com/in/amakris
+  email: amakris@forthsight.gr
+- name: Nikolaos Kyriazis
+  img: img/kyriazis.jpg
+  url: https://nkyriazis.github.io
+  email: kyriazis@forthsight.gr

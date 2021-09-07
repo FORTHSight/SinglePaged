@@ -1,0 +1,15 @@
+<table width="100%">
+    <tr>
+        {% for item in include.people %}
+        <td style="text-align:center">
+            <a href="{{item.url}}">
+                <img src="{{item.img}}" width="200px" style="border-radius:50%" />
+                <br>
+                {{item.name}}
+                <br>
+                <a href="mailto:{{item.email}}"><i class="fas fa-envelope fa-2x"></i></a>
+            </a>
+        </td>
+        {% endfor %}
+    </tr>
+</table>
