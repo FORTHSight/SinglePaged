@@ -5,3 +5,5 @@ services:
     command: tail -F anything
     volumes: 
       - ..:/workspace
+    ports: 
+      - 12346:4000
