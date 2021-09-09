@@ -1,17 +1,17 @@
 images:
-  - image: img/image1001.jpg
+  - image: img/apps/protocol.jpg
     caption: Protocol assessment
-  - image: img/image1002.jpg
+  - image: img/apps/fall.jpg
     caption: Harm detection
-  - image: img/image1003.jpg
+  - image: img/apps/bus.jpg
     caption: Safety and security in public transport
-  - image: img/image1004.jpg
+  - image: img/apps/stats.jpg
     caption: Large scale monitoring
-  - image: img/image1005.jpg
+  - image: img/apps/ppe.jpg
     caption: PPE detection
-  - image: img/image1006.jpg
-    caption: Vigilance in recreational events
-  - image: img/image1007.jpg
+  - image: img/apps/pool.jpg
+    caption: Vigilance in recreational areas
+  - image: img/apps/golf.jpg
     caption: Sports analysis
-  - image: img/image1008.jpg
+  - image: img/apps/hotel.jpg
     caption: AI powered desk assistance
