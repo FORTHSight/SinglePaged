@@ -1,9 +1,10 @@
-version: "3.0"
-services: 
+version: "3.9"
+services:
   dev:
     image: jekyll/jekyll
     command: tail -F anything
-    volumes: 
+    volumes:
       - ..:/workspace
-    ports: 
+    ports:
       - 12346:4000
+    restart: unless-stopped
